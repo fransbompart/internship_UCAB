@@ -1,2 +1,2 @@
-MSE,Accuracy,Best params hash,Best score,Best estimator
-6.69168498882454,0.9518874387738284,{'kernel': 'linear'},0.8734032970527121,SVR(kernel='linear')
+Accuracy,Best params hash,Best score,Best estimator,MAE,MSE
+0.7367454691006149,{'kernel': 'linear'},0.7964839299236264,SVR(kernel='linear'),2.4042103036406077,9.583482928065793
