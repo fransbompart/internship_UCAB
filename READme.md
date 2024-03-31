@@ -16,14 +16,10 @@ El repositorio está organizado en varias ramas, cada una con un enfoque diferen
 El repositorio contiene las siguientes carpetas:
 
 - `datasets`: Contiene los archivos CSV que alimentan a los modelos inteligentes.
-- `scripts`: Contiene varios subdirectorios:
-  - `checkpoint-logs`: (Aquí puedes agregar una descripción de lo que contiene esta carpeta)
-  - `logs`: Contiene más subdirectorios:
-    - `train`: (Aquí puedes agregar una descripción de lo que contiene esta carpeta)
-    - `validation`: (Aquí puedes agregar una descripción de lo que contiene esta carpeta)
-  - `outputs`: (Aquí puedes agregar una descripción de lo que contiene esta carpeta)
-
-
+- `scripts`: 
+  - `checkpoint-logs`: Se guarda el modelo de red neuronal con mejor configuracion de pesos, es decir, aquel con el mejor rendimiento durante el entrenamiento. Con este archivo y la estructura original de la red es posible su reutilizaci]on.
+  - `logs`: Archivos de registro tanto para el entrenamiento como para la validación de las redes neuronales, con información sobre diferentes métricas y otros datos que se pueden visualizar en TensorBoard.
+  - `outputs`: Salidas generadas por los modelos, desde el archivo de las predicciones, hasta graficas e historicos del entrenamiento, subdividiendose en dos carpetas para los modelos de red neuronal o para el de máquina vector soporte.
 
 ## ¿Cómo ejecutar los scripts?
 
