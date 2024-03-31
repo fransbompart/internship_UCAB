@@ -31,6 +31,7 @@ Para ejecutar este proyecto localmente se deben instalar ciertas de dependencias
 
 ```bash
 pip install tensorflow tensorflow-docs scikit-learn numpy matplotlib pandas seaborn ipython netron jupyter
+```
 
 **Recomendaciones**:
 
