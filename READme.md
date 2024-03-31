@@ -2,11 +2,11 @@
 
 Este repositorio contiene un prototipo para la estimación de tiempo en proyectos de desarrollo de software.
 
-## 🌲 Estructura del Repositorio
+## 🧱 Estructura del Repositorio
 
 El repositorio está organizado en varias ramas, cada una con un enfoque diferente:
 
-- `effort-VS-time-with-cv`: Predicción de tiempo a partir del esfuerzo estimado, con validación cruzada aplicada durante el entrenamiento.
+- `effort-VS-time-with-cv`: Predicción de tiempo a partir del esfuerzo estimado, con validación cruzada (cv) aplicada durante el entrenamiento.
 - `effort-VS-time`: Similar a la rama anterior, pero sin validación cruzada.
 - `story-points-VS-time`: Predicción de tiempo a partir de un puntaje (story point) asignado a la tarea.
 - `task-summary-VS-story-point`: Predicción del story point de cada tarea a partir de su descripción.
