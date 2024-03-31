@@ -25,7 +25,7 @@ El repositorio contiene las siguientes carpetas:
 
 ### Local
 
-Para ejecutar este proyecto localmente se deben instalar ciertas de dependencias
+Se deben tener instaladas las siguientes dependencias:
 
 **Ejemplo de instalación con pip:**
 
@@ -35,11 +35,17 @@ pip install tensorflow tensorflow-docs scikit-learn numpy matplotlib pandas seab
 
 **Recomendaciones**:
 
-- Utilizar la version de python 3.10 
+- Utilizar la version de Python 3.10 
 - Crear un entorno virtual separado al ejecutar la rama `task-summary-VS-story-point`.
 
-Con todo lo anterior instalado, ya se prodra ejecutar el script !!
+Ahora solo queda ejecutar el script!!
 
 ### Google Colabs
+
+Las predicciones realizadas en los scripts de cada rama se encuentras en los siguientes links, respectivamente:
+
+
+Antes de ejecutar alguno estis es importante subir a la carpeta de archivos de google colabs el dataset correspondiente
+
 
 ## ¿Qué prosigue con la investigación?
