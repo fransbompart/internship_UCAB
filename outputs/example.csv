@@ -1,0 +1,11 @@
+summary,storyPoint
+Make Batch Job Restarts Work using Single Node,3
+Improve NotificationsService test coverage,3
+Admin app crashes with SSL certification errors,8
+Ensure that branch-specific documentation is pulled and generated,12
+Look into broken tests and open tickets,5
+Backport metadata retrieval stability improvements,8
+Upgrade to SHDP GA Release,3
+Submit java receptor client for CF incubation,3
+stack overflow when trying to create a stream with the same name as a module,3
+Could not override rabbit sink module's rabbit connection factory properties,4
