@@ -45,7 +45,7 @@ Ahora solo queda ejecutar el script!!
 Las predicciones realizadas en los scripts de cada rama se encuentras en los siguientes links, respectivamente:
 
 - [Effort VS Time With Cross Validation](https://drive.google.com/drive/folders/19X_rnEb8TdPJuv0N_sSehg288dg3DAMt?usp=drive_link)
-- [Effort VS Time] (https://drive.google.com/drive/folders/1Z8taga127X20pTZHVVso3ITMb10R5M0f?usp=drive_link)
+- [Effort VS Time](https://drive.google.com/drive/folders/1Z8taga127X20pTZHVVso3ITMb10R5M0f?usp=drive_link)
 - [Story Points VS Time](https://drive.google.com/drive/folders/1Ppl3eTVuuAzpmHuF01eMztVb2RRIYLS9?usp=drive_link)
 - [Task Summary VS Story Points](https://drive.google.com/drive/folders/1MX-GuIW6LXinYrcD6cGdivK3Dt8FeUVG?usp=drive_link)
 
