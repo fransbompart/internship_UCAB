@@ -21,9 +21,23 @@ El repositorio contiene las siguientes carpetas:
   - `logs`: Archivos de registro tanto para el entrenamiento como para la validación de las redes neuronales, con información sobre diferentes métricas y otros datos que se pueden visualizar en TensorBoard.
   - `outputs`: Salidas generadas por los modelos, desde el archivo de las predicciones, hasta graficas e históricos del entrenamiento, subdividiendose en dos carpetas para los modelos de red neuronal o para el de máquina vector soporte.
 
-## ¿Cómo ejecutar los scripts?
+## 🛠️ Configuración del Ambiente y Ejecución de los Scripts
 
 ### Local
+
+Para ejecutar este proyecto localmente se deben instalar ciertas de dependencias
+
+**Ejemplo de instalación con pip:**
+
+```bash
+pip install tensorflow tensorflow-docs scikit-learn numpy matplotlib pandas seaborn ipython netron jupyter
+
+**Recomendaciones**:
+
+- Utilizar la version de python 3.10 
+- Crear un entorno virtual separado al ejecutar la rama `task-summary-VS-story-point`.
+
+Con todo lo anterior instalado, ya se prodra ejecutar el script !!
 
 ### Google Colabs
 
