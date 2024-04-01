@@ -49,17 +49,15 @@ Las predicciones realizadas en los scripts de cada rama se encuentras en los sig
 
 Antes de ejecutar alguno es importante subir a la carpeta de archivos de Google Colabs el dataset correspondiente de la siguiente manera:
 
-<p align=center">
+<div align=center">
   <img src="images\google_colabs_paso_1.png" width="200" />
   <img src="images\google_colabs_paso_2.png" width="200" />
   <img src="images\google_colabs_paso_3.png" width="200" /> 
-</p>
-<p align=center">
+</div>
+<div align=center">
   <img src="images\google_colabs_paso_4.png" width="200" />
   <img src="images\google_colabs_paso_5.png" width="200" />
-</p>
-
-<p align=center">Replicar exactamente la carpeta en función de la ubicada en el drive</p>
+</div>
 
 <div align=center">Replicar exactamente la carpeta en función de la ubicada en el drive</div>
 
