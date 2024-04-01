@@ -59,7 +59,7 @@ Antes de ejecutar alguno es importante subir a la carpeta de archivos de Google 
   <img src="images\google_colabs_paso_4.png" width="200" />
 </div>
 
-**Replicar exactamente la carpeta en función de la ubicada en el drive**
+<div align="center">Replicar exactamente la carpeta en función de la ubicada en el drive</div>
 
 ## 📊 Reportes 
 
